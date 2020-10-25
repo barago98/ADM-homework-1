@@ -3,10 +3,10 @@
 ## HW-1.ipynb
 It contains all The Python code of my solutions, organized by challenges
 
--- ### datasets
+--  datasets
 i've used the dataset given by hackerrank
 
- -- #### last note about the code:
+ --  last note about the code:
 for the regex part i've consulted often the submission section
 
 ## hackerrank PDF.pdf
